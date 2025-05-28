@@ -2,6 +2,8 @@
 
 A simple GUI-based Bash script using Zenity to perform easy, interactive folder synchronization via Rsync
 
+![Rsync GUI Screenshot](rsync.png)
+
 ## Features
 
 * Select origin and target folders through GUI
